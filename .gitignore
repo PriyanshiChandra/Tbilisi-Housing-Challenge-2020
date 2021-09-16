@@ -1,0 +1,5 @@
+__pycache__/
+.ipynb_checkpoints/
+housing_clean_1.csv
+housing_clean_2.csv
+house_3.json
